@@ -1,3 +1,3 @@
-# alisamar.com
-Ali Samar's personal website source code.
-June 2016
+# alireza.io
+Alireza Samar's personal website source code.
+October 2016
